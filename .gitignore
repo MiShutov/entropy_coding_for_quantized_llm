@@ -1,2 +1,5 @@
 *.log
 *.rar
+*.fdb_latexmk
+*.fls
+*.synctex.gz
